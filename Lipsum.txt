@@ -1,7 +1,0 @@
-Heading: New File
-
-Branch is new  branch
-
-Description : Creating new file on  a new branch
-
-File name is Lipsum.txt
