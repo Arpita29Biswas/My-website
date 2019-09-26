@@ -8,3 +8,9 @@ updates made on master on Github before rebase
 ## Repository Purpose
 
 This is a readme
+
+Purpose
+
+the purpose of this file is to provide example 
+on how to make changes on git and git hub.
+
